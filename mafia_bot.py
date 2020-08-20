@@ -3,7 +3,7 @@ import telebot
 import random
 import time
 from telebot import types
-TOKEN = 'Токен вашего бота' #bot token from
+TOKEN = '1309280830:AAFU-7dE90dHh6qeWU8PHZOaZpdx2FEJeZY' 
 bot=telebot.TeleBot(TOKEN)
 global UserMas
 global Killmas
